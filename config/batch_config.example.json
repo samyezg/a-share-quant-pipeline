@@ -1,0 +1,10 @@
+{
+  "asof": "2026-01-15",
+  "symbols": [
+    {"code": "999998.XX", "name": "EXAMPLE_A", "tier": "demo"},
+    {"code": "999999.XX", "name": "EXAMPLE_B", "tier": "demo"}
+  ],
+  "data_root": "./data/demo_quotes",
+  "steps": ["basic", "trend", "volume", "oscillation", "capital_flow", "position"],
+  "notes": "Placeholder only. Production batch configs and real symbols are omitted."
+}

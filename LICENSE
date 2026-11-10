@@ -1,0 +1,20 @@
+Copyright (c) 2026 Ye Zhiguo (叶志国). All Rights Reserved.
+
+Product: A-Share Quant Pipeline.
+
+This repository is provided as a public architecture / portfolio sample only.
+
+You may NOT, without prior written permission from the copyright holder:
+  - Redistribute, sublicense, or re-publish this source
+  - Use this source commercially, including as a competing product
+  - Remove or alter copyright, disclaimer, or attribution notices
+  - Represent this project as an official product of East Money
+    or any exchange or broker
+
+THIS MATERIAL IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+It is not investment advice. The author is not liable for trading losses
+or misuse of any third-party market data APIs.
+
+The full production course workspace, runnable step scripts, local data
+warehouses, credentials, and store-ready applications are intentionally
+omitted from this repository.

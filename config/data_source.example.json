@@ -1,0 +1,9 @@
+{
+  "symbol_name": "EXAMPLE_A",
+  "symbol_code": "999998.XX",
+  "daily_quote_file": "./data/demo_quotes/EXAMPLE_A_daily.xlsx",
+  "fund_flow_file": "./data/demo_quotes/EXAMPLE_A_fund_flow.xlsx",
+  "sheet_daily": "DailyQuotes",
+  "sheet_fund": "FundFlow",
+  "notes": "Fake paths for portfolio review. Do not expect these files to exist in this sample."
+}

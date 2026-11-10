@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+*.key
+*.pem
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Secrets / local ops (never commit)
+**/secrets/
+**/credentials*.yml
+*.private.*
+*.jks
+*.keystore
+
+# Data / outputs
+*.db
+*.sqlite
+*.parquet
+*.xlsx
+*.xls
+!skeleton/samples/**
+output/
+artifacts/
+_tmp*/
+
+# Large exports (keep local)
+*.pdf
